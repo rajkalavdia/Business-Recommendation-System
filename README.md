@@ -151,6 +151,6 @@ Raj Kalavadiya
 
 Flutter Developer | AI/ML Enthusiast
 
-GitHub: YOUR_GITHUB
+GitHub: https://github.com/rajkalavdia/Business-Recommendation-System
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/raj-kalavadiya-0b871b271/
